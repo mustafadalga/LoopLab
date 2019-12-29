@@ -24,3 +24,10 @@ mini bir sosyal ağ için web site şablonu.**
  
 ### Özellikler
 * Responsive Tasarım
+
+### Proje Görüntüleri
+
+* **Görüntü 1**
+
+![screencapture-mustafadalga-github-io-Front-End-Developments-LoopLabSocialTheme-index-html-2019-12-29-21_13_49](https://user-images.githubusercontent.com/25087769/71560877-4a5cd600-2a80-11ea-9a5f-a3880a41a72c.png)
+
